@@ -8,9 +8,9 @@ How It Works
 4. The result is displayed to the user.
 
 Steps to Run
-Open a terminal or any Python IDE.
-Navigate to the folder where the file is saved.
-Run the program using:
+1. Open a terminal or any Python IDE.
+2. Navigate to the folder where the file is saved.
+3. Run the program using:
 python task1.py
 
 
@@ -22,7 +22,7 @@ How It Works
 3. After the loop ends, the total sum is displayed.
 
 Steps to Run
-Open a terminal or any Python IDE.
-Navigate to the folder where the file is saved.
-Run the program using:
+1. Open a terminal or any Python IDE.
+2. Navigate to the folder where the file is saved.
+3. Run the program using:
 python task2.py
