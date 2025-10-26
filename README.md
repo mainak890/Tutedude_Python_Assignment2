@@ -11,7 +11,7 @@ Steps to Run
 1. Open a terminal or any Python IDE.
 2. Navigate to the folder where the file is saved.
 3. Run the program using:
-python task1.py
+```python task1.py```
 
 
 Task 2: Sum of Integers from 1 to 50 Using a Loop
@@ -25,4 +25,4 @@ Steps to Run
 1. Open a terminal or any Python IDE.
 2. Navigate to the folder where the file is saved.
 3. Run the program using:
-python task2.py
+```python task2.py```
